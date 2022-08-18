@@ -1,0 +1,8 @@
+<h1>Home#index</h1>
+<%= form_tag root_path, :method => 'get', class: "d-flex", remote: true do %>
+  <%= text_field_tag :search,nil, class: "form-control me-2" %>
+  <%= submit_tag 'Search User',class: "btn btn-outline-success",type:"submit"  %>
+<% end %>
+<div id="user-list">
+  <%= render partial: 'users', locals:{users: @users}%>
+</div>

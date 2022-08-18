@@ -1,0 +1,4 @@
+
+//$("#user-list").html("<%#= j (render 'home/users',users: @users )%>");
+
+ $("#user-list").html("<%= escape_javascript(render('home/users', users: @users )) %>")
