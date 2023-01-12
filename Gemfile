@@ -73,3 +73,7 @@ end
 gem 'cssbundling-rails'
 
 gem "devise", "~> 4.8"
+
+gem "sidekiq", "~> 6.5"
+
+gem 'twilio-ruby'

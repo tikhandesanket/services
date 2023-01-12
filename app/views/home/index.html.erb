@@ -6,3 +6,6 @@
 <div id="user-list">
   <%= render partial: 'users', locals:{users: @users}%>
 </div>
+<%= button_to "Download CSV", get_report_path(format: :csv), data: {turbo: :false} ,class: "btn btn-outline-success"%></p>
+
+<%= button_to "Send mail", get_report_path(format: :csv), data: {turbo: :false} ,class: "btn btn-outline-success"%>

@@ -1,0 +1,138 @@
+.hotel-wrapper{
+    margin: 10px 20px;
+    background: #fff;
+}
+.card{
+    border-color: rgb(255, 255, 255);
+    padding: 1rem;
+}
+.card:hover{
+    border-color: rgb(232, 232, 232);
+    box-shadow: rgb(28 28 28 / 12%) 0px 0.4rem 1.8rem;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.card-body {
+    padding: 10px;
+}
+h4.card-title{
+    font-size: 16px;
+    color: #000;
+    margin-top: 8px;
+}
+.card-body-text{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 1.7rem;
+    color: rgb(156, 156, 156);
+    margin: 10px 0px;
+}
+p.card-text{
+    margin-bottom: 0px;
+    line-height: 18px;
+    font-size: 14px;
+}   
+img.card-img-top{
+width: 100%;
+height: 20vw;
+object-fit: cover;
+border-radius: 20px;
+}
+.card-main-head{
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    font-size: 14px;
+    line-height: 1.7rem;
+    margin-left: 24px;
+    color: rgb(156, 156, 156);
+}
+span.star-text {
+    background-color: rgb(38, 126, 62);
+    color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 0.6rem;
+    border: 1px solid rgb(38, 126, 62);
+}
+.category{
+  display: flex;
+  padding: 10px 0;
+}
+h4.category-title{
+  border: 1px solid rgb(156, 156, 156);
+  border-radius: 5px;
+  color: rgb(156, 156, 156);
+  margin: 10px;
+  padding: 5px;
+  font-size: 18px;
+  line-height: 30px;
+  cursor: pointer;
+}
+h4.category-title:hover, h4.category-title:active, h4.category-title:focus{
+  background: #1c74ce;
+  color: #fff;
+}
+.dishes{
+  display: flex;
+  padding: 10px 0;
+}
+h1.dishes-title{
+  color: #000;
+  margin: 10px 0;
+  padding: 5px;
+  font-size: 28px;
+  line-height: 30px;
+}
+.btn-skip {
+  background-color: #0082CA;
+  border-color: #0082CA;
+  color: #FFFFFF;
+  border-radius: 20px;
+  padding: 2px 10px;
+}     
+.card1 {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 12px #00000033;
+    border-radius: 20px;
+    opacity: 1;
+    height: 200px;
+    padding: 21% 35%;
+    margin-bottom: 20px;
+}
+.btn-skip1{
+  display: none;
+}
+h4.upload-img-text {
+  color: #ccc;
+  font-size: 17px;
+} 
+label.form-check-label.veg-check {
+  line-height: 21px !important;
+  font-size: 15px !important;
+}
+img.veg-img{
+  width: 12%;
+  margin: 5px;
+}
+.veg-text{
+  margin-bottom: 0px;
+}
+img.veg-img1 {
+  width: 23%;
+  margin: 5px;
+}
+span.star-text-non-veg {
+  background-color: rgb(174 0 35);
+  color: rgb(255, 255, 255);
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  padding: 2px 7px;
+  border-radius: 0.6rem;
+  border: 1px solid rgb(174 0 35);
+}

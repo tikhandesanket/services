@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25cc953f-015c-4dd3-8029-e8e0c655bc86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/app/javascript/service.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/service.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/shared/_header.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/shared/_header.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../material-hospitality/app/views/service_dashboard/index.html.erb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/order_mailer/new_order_email.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/.idea/material-hospitality.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/.idea/material-hospitality.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/app/controllers/application_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/app/controllers/dashboard_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/app/controllers/dashboard_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/app/views/dashboard/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/app/views/dashboard/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../material-hospitality/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../material-hospitality/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/mailers/application_mailer.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/home/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/home/index.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/environments/production.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="ERB File" />
       </list>
     </option>
   </component>
@@ -34,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/sanket/personal/service",
+    "last_opened_file_path": "/home/sanket/company_projects/JioBook",
     "ruby.rails.projectView.checked": "true"
   }
 }]]></component>
@@ -161,7 +181,10 @@
       <workItem from="1659423080338" duration="42000" />
       <workItem from="1659970542074" duration="4601000" />
       <workItem from="1660041686879" duration="3672000" />
-      <workItem from="1660841980678" duration="1967000" />
+      <workItem from="1660841980678" duration="4315000" />
+      <workItem from="1661261281790" duration="1385000" />
+      <workItem from="1664021718074" duration="8190000" />
+      <workItem from="1669189245123" duration="11000" />
     </task>
     <servers />
   </component>
